@@ -1,1 +1,0 @@
-/home/jha/.vim/vimrc
