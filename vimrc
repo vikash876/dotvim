@@ -33,3 +33,4 @@ set backspace=indent,eol,start	" Backspace behaviour
 
 "" Themes
 colorscheme gruvbox
+set background=dark    " Setting dark mode
